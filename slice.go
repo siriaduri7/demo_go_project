@@ -174,7 +174,7 @@ o/p
 
 SYNTAX :
 
-func copy(dst,src []type) int
+func copy(dst,src []type)
 
 num :=copy(dest_slice, src_slice)
 ************************************************************************************
